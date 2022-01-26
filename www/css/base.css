@@ -9,14 +9,17 @@ common styling
 */
 
 a:link {
-   text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover > p {
-   background-color: black;
-   color: white;
+  background-color: black;
+  color: white;
 }
 
 body {
-   background-color: darkolivegreen;
+  background-color: darkolivegreen;
+}
+img {
+  opacity: 0.6;
 }

@@ -18,7 +18,8 @@ a:hover > p {
 }
 
 body {
-  background-color: darkolivegreen;
+  background-color: rgb(202, 195, 85);
+  color: rgb(80, 120, 240);
 }
 img {
   opacity: 0.6;

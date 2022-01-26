@@ -1,11 +1,11 @@
 .footer p {
-   font-size: 0.8em;
-   font-style: italic;
-   color: lightgray;
-   display:inline;
-   padding: 4px 24px;
+  font-size: 0.8em;
+  font-style: italic;
+  color: rgb(202, 195, 85);
+  display: inline;
+  padding: 4px 24px;
 }
 
 .footer {
-   background-color: darkslategray;
+  color: rgb(80, 120, 240);
 }

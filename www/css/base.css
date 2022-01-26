@@ -9,14 +9,26 @@ common styling
 */
 
 a:link {
-   text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover > p {
-   background-color: black;
-   color: white;
+  background-color: black;
+  color: white;
 }
 
 body {
-   background-color: darkolivegreen;
+  background-color: rgb(202, 195, 85);
+  color: rgb(80, 120, 240);
+}
+img {
+  opacity: 0.6;
+}
+
+* {
+  text-align: center;
+}
+
+.logo img {
+  max-height: 100px;
 }

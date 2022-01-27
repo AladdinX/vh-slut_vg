@@ -21,5 +21,6 @@ av Lars Demian, stjärnan och karriären\
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
 ## Författare
-[@Alaa Aldroubi](https://github.com/AladdinX/)
-:)
+
+Original versionen: [@Johan-at-grit](https://github.com/johan-at-grit)
+Vidareutveckling:[@Alaa Aldroubi](https://github.com/AladdinX/)

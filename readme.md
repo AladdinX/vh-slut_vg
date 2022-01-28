@@ -37,9 +37,3 @@ Vidareutveckling:[@Alaa Aldroubi](https://github.com/AladdinX/)
 - Visual Studio Code
 - Github Desktop
 - Git Extensions
-
-## Språk :
-
-- Markdown
-- Html
-- Css
